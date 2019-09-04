@@ -6,7 +6,7 @@ Submitted files for the assignment:
 
 •	run_analysis.R
 
-•	Code_book.md
+•	Code_book
 
 •	README.md
 
