@@ -26,7 +26,7 @@ Instructions:
 
 
 
-Code_book.md:
+Code_book:
 
 The Code book gives information on the final dataset (Tidy_Data_Summary_Upload.txt), which is created by the R-script “run_analysis.R”.
 
